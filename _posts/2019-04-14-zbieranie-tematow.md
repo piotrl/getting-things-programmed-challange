@@ -10,7 +10,7 @@ W tym rozdziale Maciej opowiada o tym, jak rejestrować różne wrzutki tak, że
 
 Korzystam z listy zadań od dosyć dawna, co najmniej kilku lat. Używałem już wcześniej Wunderlist, Trello, ostatecznie stanęło na [Nozbe][nozbe] - od ponad roku udało się je wdrożyć w codzinnym użyciu, ze względu na łatwość dodawania zadań bez wchodzenia do interfejsu:
 
-![Nozbe task popup]({{ site.url }}/assets/nozbe-task-popup.png)
+![Nozbe task popup]({{ site.baseurl }}/assets/nozbe-task-popup.png)
 
 Co się udało zrobić?
 * ✅ Przeczytać rozdział w drodze na Poznański Półmaraton :)
