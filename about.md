@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Ten blog to zbiór notatek, 
-które tworzę podczas czytania ksiąki "Getting Thigns Programmed"
+które tworzę podczas czytania ksiąki "Getting Thigns Programmed", napisanej przez Michała ([jego blog][gtp-blog])
 ([mozesz ją kupić][helion-gtp], autor się ucieszy).
 
 ## Kim jestem?
@@ -26,3 +26,4 @@ Piotr, jestem programistą. Możesz zajrzeć na mój LinkedIn żeby dowiedzieć 
 
 
 [helion-gtp]: https://helion.pl/ksiazki/getting-things-programmed-droga-do-efektywnosci-michal-bartyzel,droppp.htm
+[gtp-blog]: https://www.michalbartyzel.pl/
