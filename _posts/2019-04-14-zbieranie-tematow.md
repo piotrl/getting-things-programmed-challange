@@ -28,7 +28,7 @@ Efekty:
 * ❓ Czy któreś z nich zniknęły przed 6 dniem?
 * ❓ Czy któreś się utrzymują? - Jeżeli tak, przeczytaj ten rozdział jeszcze raz
 
-## Zadanie 2
+## Zadanie 2 - Pielęgnacja skrzynki pocztowej
 
 * ✅ Zorganizuj pocztę tak, żeby działała jak FIFO (First-In First-Out), czyli najstarsze na górze.
 * ❌ Korzystaj w ten sposób przez 6 dni roboczych 
@@ -36,7 +36,13 @@ Efekty:
 
 Efekty:
 * ❓Jak często zdarza mi się przeglądać foldery? Dlaczego?
+  * Stan zastały, miałęm już wstępną listę folderów które uzupełniałem (tylko automatycznie). Reszta zalegała w Inbox. 
+  * Pierwszym krokiem, poświęciłem 2-3 godziny na wyczyszczenie skrzynki (większość automatycznie przydzielona do konkretnych folderów).
+  * Dodatkowo, mam trzy skrzynki (korpo, prywatne, profesjonalne), każda jest wyczyszczona do Inbox 0.
+  * Problem z ręcznym przeglądaniem maili jest taki, że nie wszystkie maile mnie właściwie interesują. Dodatkowo, to że maile mam automatycznie porozdzielane pozwala mi je przeglądać pokolei w wybranym kontekście. np, rano sprawdzając review nie mieszają mi się maile z biura - bo wszystkie mam pod folderem "Bitbucket".
 * ❓Zastosowanie której ze wskazówek opisanych w podrozdziale „Przetwarzanie tematów na przykładzie skrzynki pocztowej” przyniosło Ci najwięcej korzyści? Jakie to są korzyści?
+
+* Początkowo posegreogowałem foldery w grupy - Akcje, Decyzje, Informacje. Szybko zrozumiałem, że akcje i decyzje są wymieszane, nowe grupy dla mnie to - Development, Organizacja, Informacje.
 
 [nozbe]: https://nozbe.com/]
 [gtp-kanban-lodowka]: https://www.michalbartyzel.pl/2013/06/kanban-na-lodowce.html
